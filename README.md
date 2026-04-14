@@ -1,5 +1,5 @@
-# OPSSAT-AD
-Code of the OPS-SAT benchmark for detecting anomalies in satellite telemetry.
+# OPSSAT-AD + Explainable AI (LIME & SHAP)
+This project extends the original code of the OPS-SAT benchmark for detecting anomalies in satellite telemetry by integrating Explainable AI (XAI) techniques to improve interpretability of anomaly detection models.
 
 This package provides a novel collection of satellite telemetry for anomaly detection. It has been prepared and evaluated with the help of satellite operators and includes data from the ESA OPS-SAT aircraft, the first flying nanosatellite laboratory.
 
